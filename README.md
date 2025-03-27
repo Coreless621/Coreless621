@@ -7,7 +7,7 @@ I'm a Reinforcment Learning and Robotics enthusiast.
   - Collecting experience in RL training
   - Exploring new network architectures and training techniques
   - Deploying AI networks in the real world
-  - Dive deeper into Deep RL, Sim2Real and more
+  - Dive deeper into Deep RL, Sim2Real, Simulators(IsaacGym) and more
 
 🔎Interests:
   - Reinforcement Learning
